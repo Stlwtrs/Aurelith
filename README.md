@@ -29,7 +29,7 @@ A five-phase bullet-hell boss fight that runs in the browser, built to resemble 
 | 4 | Chain Serpent | A serpent of gold plates hunts you; she is shielded until it dies |
 | 5 | Desperation | Her shell shatters. Sweeping beams, teleport bursts, novas |
 
-**Difficulty:** Normal (forgiving), Expert, and Sovereign, which is tuned to be comparable to the hardest modded Terraria boss fights: five or six hits and you're done. Best times are saved in your browser.
+**Difficulty:** Normal ("forgiving"), Expert, and Sovereign, which is tuned to be comparable to the hardest modded Terraria boss fights: five or six hits and you're done. Best times are saved in your browser.
 
 ## Soundtrack
 
