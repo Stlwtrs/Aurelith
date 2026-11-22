@@ -1,6 +1,6 @@
 # Aurelith, the Molten Sovereign
 
-A five-phase bullet-hell boss fight that runs in the browser, built to resemble [AuricOS](https://github.com/Stlwtrs/AuricOS). One HTML file, no dependencies, no assets: the pixel-art arena is drawn on a low-resolution canvas and scaled up with hard edges, and the soundtrack is synthesized live with the Web Audio API.
+A five-phase bullet-hell boss fight that runs in the browser, built to resemble [AuricOS](https://github.com/Stlwtrs/AuricOS) the OS I am currently building. One HTML file, no dependencies, no assets: the pixel-art arena is drawn on a low-resolution canvas and scaled up with hard edges, and the soundtrack is synthesized live with the Web Audio API.
 
 **Play:** open `index.html` in a desktop browser. It needs a keyboard and mouse.
 
