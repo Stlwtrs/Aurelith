@@ -15,7 +15,7 @@ A five-phase bullet-hell boss fight that runs in the browser, built to resemble 
 | `S` | Fall faster, drop through platforms |
 | `Shift` | Dash, with a brief moment of invincibility |
 | Mouse | Aim; hold left click to fire |
-| `Q` | Healing draught (long cooldown) |
+| `Q` | Healing potion (long cooldown) |
 | `Esc` | Pause |
 | `M` | Mute |
 
