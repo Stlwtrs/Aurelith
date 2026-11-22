@@ -4,6 +4,8 @@ A five-phase bullet-hell boss fight that runs in the browser, built to resemble 
 
 **Play:** open `index.html` in a desktop browser. It needs a keyboard and mouse.
 
+**Disclaimer:** It is meant to be **EXTREMELY** difficult and is meant to be a serious challenge. If you get stressed out and frustrated while trying to beat it that's a good thing it's doing its job lol.
+
 ## Controls
 
 | Key | Action |
