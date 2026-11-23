@@ -1,8 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>Aurelith</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -63,8 +59,6 @@ kbd{font-family:var(--mono);font-size:17px;color:var(--ink);border:1px solid var
 .fine{font-size:13px;color:var(--muted);margin:0}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
 </style>
-</head>
-<body>
 
 <canvas id="game" aria-label="Aurelith boss arena"></canvas>
 
@@ -601,7 +595,7 @@ const angTo = (ax, ay, bx, by) => Math.atan2(by - ay, bx - ax);
 const lerp = (a, b, t) => a + (b - a) * t;
 
 const DIFFS = {
-  normal:    { key:'normal', name:'Normal', spd:0.8, den:0.7, dmg:0.6, hp:600, boss:2300, surv:22, iframe:0.85, tempo:0.82, potion:30 },
+  normal:    { key:'normal', name:'Normal', spd:0.7, den:0.55, dmg:0.45, hp:700, boss:1900, surv:16, iframe:1.0, tempo:0.7, potion:25 },
   expert:    { key:'expert', name:'Expert', spd:1.0, den:1.0, dmg:1.0, hp:500, boss:2900, surv:26, iframe:0.7, tempo:1.0, potion:40 },
   sovereign: { key:'sovereign', name:'Sovereign', spd:1.2, den:1.32, dmg:1.5, hp:500, boss:3500, surv:30, iframe:0.6, tempo:1.17, potion:45 }
 };
@@ -1416,5 +1410,5 @@ window.__aurelith = {
 };
 })();
 </script>
-</body>
-</html>
+
+</body></html>
